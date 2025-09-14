@@ -61,10 +61,3 @@ Amaç; **katmanlı mimari**, **temiz kod** ve **yeniden kullanılabilirlik** pre
 
 <img width="1250" height="911" alt="image" src="https://github.com/user-attachments/assets/fece26a6-21d3-495e-bfeb-7cab016f9f79" />
 
----
-
-## ⚙️ Kurulum
-1. Repository’yi klonla:
-   ```bash
-   git clone https://github.com/Anil-CLB/MVC_Cv.git
-             
